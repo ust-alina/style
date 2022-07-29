@@ -1,0 +1,16 @@
+.SLT-SearchResults-blue__container {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+.SLT-SearchResults-blue__container>div {
+	width: calc(100% - 310px);
+}
+
+.SLT-App-blue__container {
+	background-color: transparent;
+}
+
+.SLT-SearchForm-blue__container {
+	background-color: #4a90e2;
+}
